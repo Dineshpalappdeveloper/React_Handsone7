@@ -1,0 +1,37 @@
+.nav{
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+    font-style: italic;
+}
+.nav:focus{
+    color: rgb(241, 120, 120);
+}
+.nav:hover{
+    color: rgb(211, 30, 30);
+}
+.header{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    background-color: blue;
+}
+.dispaly{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2px 5%;
+
+}
+.btn1{
+    
+    background-color: rgb(238, 161, 161);
+    font-size: 20px;
+    height: 40px;
+    padding: 5px 20px;
+    border-radius: 10px;
+}
+.data-table{
+    padding: 10px 5%; 
+    
+}
