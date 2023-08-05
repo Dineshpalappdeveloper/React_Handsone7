@@ -16,9 +16,9 @@
     padding: 10px;
     background-color: blue;
 }
-.dispaly{
+.display{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     padding: 2px 5%;
 
