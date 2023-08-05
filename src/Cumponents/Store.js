@@ -3,7 +3,7 @@ import StudentSlice from "./StudentSlice";
 
 
 export default configureStore({
-    reducer:{
-        Student:StudentSlice
+    reducer: {
+        Student: StudentSlice
     }
 })
