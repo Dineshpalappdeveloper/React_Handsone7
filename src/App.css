@@ -21,7 +21,12 @@
     justify-content: space-around;
     align-items: center;
     padding: 2px 5%;
+    /* background-color: white; */
 
+}
+h3{
+    text-decoration: underline;
+    font-size: 20px;
 }
 .btn1{
     
@@ -35,3 +40,60 @@
     padding: 10px 5%; 
     
 }
+
+
+input {
+    width: 250px;
+    font-family: monospace;
+    font-size: 26px;
+    padding: 15px 10px;
+    background: transparent;
+}
+
+/* label {
+    font-size: 25px;
+    cursor: text;
+    margin: 10px;
+    color: brown;
+    background: transparent;
+}
+
+input:focus {
+    color: red;
+    border: 2px solid pink;
+    box-shadow: 3px 3px 3px yellow;
+}
+
+.display {
+    display: flex;
+    padding: 70px 200px;
+    justify-content: space-around;
+}
+
+button {
+    padding: 10px 40px;
+    background-color: black;
+    color: white;
+    text-shadow: 4px 4px 5px yellow;
+    font-size: 24px;
+    border: 2px solid pink;
+    font-size: 29px;
+    margin-right: 100px;
+    border-radius: 5px;
+}
+
+button:hover {
+    box-shadow: 2px 5px 10px red;
+    border: 3px solid aqua;
+}
+
+.display1 {
+    display: flex;
+    justify-content: flex-end;
+    margin: 2px 50px;
+    padding-right: 220px;
+}
+
+.space {
+    margin: 0px 50px;
+} */
